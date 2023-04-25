@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, eu sou a Maria Eduarda!
 
-<!--
-**Mecduda99/Mecduda99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
+    + Lógica de programação
+    + Front-end => HTML, CSS e JavaScript
+    + Back end => Java, Python
+- 👯 Estou à procura de iniciar minha experiência no mercado de trabalho em TI (estágios são bem vindoos!)
+- 🤔 Toda ajuda é bem vinda para que eu possa melhorar cada vez mais minhas habilidades
+- 📫 e-mail: dudacav42@gmail.com
+- 😄 Ela/Dela
+- ⚡ Fun fact: apesar de não utilizá-la atualmente, minha linguagem favorita é C#
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
