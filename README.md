@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
     + Lógica de programação
     + Front-end => HTML, CSS e JavaScript
-    + Back end => Java, Python
+    + Back end => Java, Python, C#
     + Frameworks: React.js, Next.js, Bootstrap
 - 👯 Estou à procura de iniciar minha experiência no mercado de trabalho em Front-end(estágios são bem vindoos!)
 - 🤔 Toda ajuda é bem vinda para que eu possa melhorar cada vez mais minhas habilidades
