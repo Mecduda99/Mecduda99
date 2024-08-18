@@ -1,18 +1,19 @@
-### Olá, eu sou a Maria Eduarda!
-
-- 👩‍💻 Programadora Trainee na FIAP
-- 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
-    + Lógica de programação
-    + Front-end => HTML, CSS e JavaScript
-    + Back end => Java, Python, C#
-    + Frameworks e libs: React.js, Next.js, Bootstrap, Angular.
-- 🤔 Toda ajuda é bem vinda para que eu possa melhorar cada vez mais minhas habilidades
-
-
-- 📫 E-mail de contato: dudacav42@gmail.com
+##Olá, eu sou a Maria Eduarda!
 - 😄 Ela/Dela
 - ⚡ Fun fact: apesar de não utilizá-la atualmente, minha linguagem favorita é C#
 
+### 👩‍💻 Programadora Trainee na FIAP
+🌱 4º Semestre de Análise e Desenvolvimento de Sistemas
+
+### Tecnologias
+- **Front-end** => HTML, CSS e TypeScript.
+- **Back-end** => Python, C#.
+- **Mobile** => React Native, Kotlin.
+- **Frameworks e libs**: React, Next, Angular.
+
+### Fale Comigo
+- 📫 E-mail de contato: dudacav42@gmail.com
+- 📲 Instagram profissional: @dudav.json
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecduda99&show_icons=true&theme=dracula)
 
