@@ -1,4 +1,4 @@
-##Olá, eu sou a Maria Eduarda!
+## Olá, eu sou a Maria Eduarda!
 - 😄 Ela/Dela
 - ⚡ Fun fact: apesar de não utilizá-la atualmente, minha linguagem favorita é C#
 
