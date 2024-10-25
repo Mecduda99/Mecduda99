@@ -11,6 +11,9 @@
 - **Mobile** => React Native, Kotlin.
 - **Frameworks e libs**: React, Next, Angular.
 
+### Portfólio
+- https://my-profile-card-vert.vercel.app/
+
 ### Fale Comigo
 - 📫 E-mail de contato: dudacav42@gmail.com
 - 📲 Instagram profissional: @dudav.json
