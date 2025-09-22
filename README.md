@@ -1,15 +1,16 @@
 ## Olá, eu sou a Maria Eduarda!
 - 😄 Ela/Dela
-- ⚡ Fun fact: apesar de não utilizá-la atualmente, minha linguagem favorita é C#
+- ⚡ Fun Fact: Gosto de praticar confeitaria como hobby.
 
-### 👩‍💻 Programadora Trainee na FIAP
-🌱 4º Semestre de Análise e Desenvolvimento de Sistemas
+### 👩‍💻 Programadora Júnior na FIAP
+🌱 Graduada em Análise e Desenvolvimento de Sfotware
+🌱 Cursando MBA em Engenharia de Software
 
 ### Tecnologias
-- **Front-end** => HTML, CSS e TypeScript.
+- **Front-end** => Nextjs, SASS, TypeScript e GSAP.
 - **Back-end** => Python, C#.
-- **Mobile** => React Native, Kotlin.
-- **Frameworks e libs**: React, Next, Angular.
+- **Mobile** => React Native.
+- **Frameworks e libs**: React, Next, Angular, Axios API.
 
 ### Portfólio
 - https://my-profile-card-vert.vercel.app/
