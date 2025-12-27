@@ -19,7 +19,3 @@
 - 📫 E-mail de contato: dudacav42@gmail.com
 - 📲 Instagram profissional: @dudav.json
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecduda99&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mecduda99&layout=compact&theme=dracula)](https://github.com/mecduda99/github-readme-stats)
-
