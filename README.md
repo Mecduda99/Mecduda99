@@ -13,7 +13,7 @@
 - **Frameworks e libs**: React, Next, Angular, Axios API.
 
 ### Portfólio
-- https://my-profile-card-vert.vercel.app/
+- https://novo-portfolio-2026.vercel.app/
 
 ### Fale Comigo
 - 📫 E-mail de contato: dudacav42@gmail.com
